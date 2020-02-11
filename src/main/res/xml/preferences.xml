@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="Username"
+        android:key="@string/usernameShared"
+        android:inputType="textEmailAddress"
+        android:summary="Email address"/>
+    <EditTextPreference
+        android:title="Screen Name"
+        android:summary="The Contact Number that will be sent messages"
+        android:key="@string/screennameShared"/>
+    <EditTextPreference
+        android:title="Hub Prefix"
+        android:summary="The Contact Number that will be sent messages"
+        android:key="@string/hubprefixShared"/>
+</PreferenceScreen>

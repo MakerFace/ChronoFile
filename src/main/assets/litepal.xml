@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="resources"/>
+    <version value="1"/>
+    <list>
+        <mapping class="id.ac.ui.clab.dchronochat.resources.entity.Doc"/>
+        <mapping class="id.ac.ui.clab.dchronochat.resources.entity.Music"/>
+        <mapping class="id.ac.ui.clab.dchronochat.resources.entity.Photo"/>
+        <mapping class="id.ac.ui.clab.dchronochat.resources.entity.Video"/>
+    </list>
+</litepal>
